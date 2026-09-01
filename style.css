@@ -898,3 +898,7 @@ footer {
 .project-card:hover .project-image {
     transform: scale(1.03);
 }
+
+.project-visual {
+    height: 300px;
+}
