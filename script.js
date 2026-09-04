@@ -34,6 +34,23 @@ const projects = {
 
         tools:
             "Manual QA · Functional Testing · Usability Testing · Bug Reporting"
+    },
+    food: {
+        title: "Urban Food",
+
+        description:
+            "Urban.Lunch is a mobile food-ordering application that allows users to create customized business meals by combining dishes from different restaurants and collecting them at a selected pickup point.",
+
+        role: [
+            "Responsible for analyzing requirements and Figma designs.",
+            "Creating and executing test cases.",
+            "Performing functional and UI testing on the Android application.",
+            "Validating calculations and end-to-end user flows.",
+            "Reporting defects in Jira with clear reproduction steps and expected vs. actual results.."
+        ],
+
+        tools:
+            "Manual QA · Functional Testing · Usability Testing · Bug Reporting · Mobile Testing · UI Testing · Android · Test cases"
     }
 
 };
