@@ -388,6 +388,15 @@ h2 {
         #10121a;
 }
 
+.food {
+    background:
+        radial-gradient(
+            circle at center,
+            rgba(59,130,246,.2),
+            transparent 60%
+        ),
+        #10121a;
+}
 
 /* BROWSER MOCKUP */
 
