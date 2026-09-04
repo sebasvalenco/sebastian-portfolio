@@ -51,6 +51,24 @@ const projects = {
 
         tools:
             "Manual QA · Functional Testing · Usability Testing · Bug Reporting · Mobile Testing · UI Testing · Android · Test cases"
+    },
+    scooter: {
+        title: "Urban Scooter",
+
+        description:
+            "Urban Scooter is a web and mobile application that allows users to rent electric scooters for convenient urban transportation.",
+
+        role: [
+            "Responsible for analyzing requirements and designs.",
+            "Creating and executing test cases, performing functional.",
+            "UI.",
+            "End to end testing.",
+            "Validating core user flows.",
+            "Reporting defects in Jira with clear reproduction steps and expected vs. actual results.."
+        ],
+
+        tools:
+            "Manual Testing · Functional Testing · Web Testing · Mobile Testing · UI Testing · Test Cases · Jira · Bug Reporting · Requirements Analysis"
     }
 
 };
