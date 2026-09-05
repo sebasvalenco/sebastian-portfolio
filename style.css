@@ -214,8 +214,8 @@ h2 span {
 }
 
 .avatar {
-    width: 230px;
-    height: 230px;
+    width: 280px;
+    height: 280px;
 
     margin: auto;
     margin-bottom: 25px;
@@ -228,8 +228,6 @@ h2 span {
 
     font-size: 38px;
     font-weight: 800;
-
-    border: 5px solid #242632;
 }
 
 .hero-card h3 {
